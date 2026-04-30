@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "customer": "Ali",
+    "status": "paid",
+    "items": [
+      { "name": "Laptop Stand", "quantity": 1, "price": 35.5 },
+      { "name": "USB Cable", "quantity": 2, "price": 7.25 }
+    ]
+  },
+  {
+    "id": 2,
+    "customer": "Sara",
+    "status": "pending",
+    "items": [
+      { "name": "Notebook", "quantity": 3, "price": 4.0 }
+    ]
+  },
+  {
+    "id": 3,
+    "customer": "Reza",
+    "status": "paid",
+    "items": [
+      { "name": "Mouse", "quantity": 1, "price": 22.0 },
+      { "name": "Keyboard", "quantity": 1, "price": 60.0 }
+    ]
+  }
+]
