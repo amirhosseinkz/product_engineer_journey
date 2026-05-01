@@ -42,7 +42,7 @@ def read_authors(file_path):
 
         for row in data:
 
-            print("Row:", row)
+  
 
             authors[row["author"].strip()] = {
 
