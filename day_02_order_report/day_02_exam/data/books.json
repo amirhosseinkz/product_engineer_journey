@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "Software",
+    "price": 42.5,
+    "stock": 8
+  },
+  {
+    "id": 2,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "category": "Software",
+    "price": 38.0,
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self Improvement",
+    "price": 21.0,
+    "stock": 12
+  }
+]
